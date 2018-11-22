@@ -1,0 +1,3 @@
+product,origin_city,origin_state,origin_lat,origin_lng,destination_city,destination_state,destination_lat,destination_lng
+cafe, Pocos, MG, -21.807536, -46.474181, Grapevine, TX, 32.9342919, -97.0780654
+milho, Pouso Alegre, MG, -22.283857, -45.979307, Grapevine, TX, 32.9342919, -97.0780654

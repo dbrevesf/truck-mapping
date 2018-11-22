@@ -1,0 +1,5 @@
+product,origin_city,origin_state,origin_lat,origin_lng,destination_city,destination_state,destination_lat,destination_lng
+cafe, Pocos, MG, -21.768693, -46.603365, Grapevine, TX, 32.9342919, -97.0780654
+milho, Pocos, MG, -21.747775, -46.603365, Grapevine, TX, 32.9342919, -97.0780654
+telefone, Pocos, MG, -21.739611, -46.603365, Grapevine, TX, 32.9342919, -97.0780654
+

@@ -1,4 +1,4 @@
-Optimal Mapping of Trucks and Cargos (Post-office Problem)
+# Optimal Mapping of Trucks and Cargos (Post-office Problem)
 
 * Author
 
@@ -51,9 +51,9 @@ Optimal Mapping of Trucks and Cargos (Post-office Problem)
 
   2) Take the nearest truck of a cargo
 
-    2.1) If the truck is available, save it in a list of minimal distances
+  2.1) If the truck is available, save it in a list of minimal distances
 
-    2.2) If the truck is already being used, compare the distance between this truck and the two cargos and selects the one with the smallest distance
+  2.2) If the truck is already being used, compare the distance between this truck and the two cargos and selects the one with the smallest distance
 
   3) If we iterate over the cargos and don't complete the list of minimal distances, repeat 2) for the second (and third, fourth, etc) nearest truck until the list is completed.
 
